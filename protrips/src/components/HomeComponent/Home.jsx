@@ -35,9 +35,10 @@ export default class Home extends Component{
                 </div>
 
                 <div className = "info-container">
-                    <img src="https://img.icons8.com/wired/50/000000/sun.png" alt="tropic-img" />
-                    <img src="https://img.icons8.com/ios-filled/50/000000/mountain.png" alt="trek-img" />
-                    <img src="https://img.icons8.com/ios-filled/50/000000/bavarian-beer-mug.png" alt="club-img" />
+                    <span className="icons"><i className="fa fa-sun" aria-hidden="true"></i></span>
+                    <span className="icons"><i class='fas fa-mountain'></i></span>
+                    <span className="icons"><i className="fa fa-beer" aria-hidden="true"></i></span>
+                    
                 </div>
 
                 <div className="count-container">
@@ -54,9 +55,9 @@ export default class Home extends Component{
                 </div>
                     
                 <div className="info-container">
-                    <img src="https://img.icons8.com/wired/50/000000/sun.png" alt="tropic-img" />
-                    <img src="https://img.icons8.com/ios-filled/50/000000/mountain.png" alt="trek-img" />
-                    <img src="https://img.icons8.com/ios-filled/50/000000/bavarian-beer-mug.png" alt="club-img" />
+                    <span className="icons"><i className="fa fa-sun" aria-hidden="true"></i></span>
+                    <span className="icons"><i class='fas fa-mountain'></i></span>
+                    <span className="icons"><i className="fa fa-beer" aria-hidden="true"></i></span>
                 </div>
 
                 <div className="count-container">
